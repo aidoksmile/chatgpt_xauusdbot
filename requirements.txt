@@ -1,7 +1,7 @@
 yfinance
 pandas
 numpy
-sklearn
+scikit-learn
 tensorflow
 flask
 python-telegram-bot
